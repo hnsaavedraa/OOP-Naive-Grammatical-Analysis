@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-05-15">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+<node id="0" label="Aarón"> <viz:size value="20.0"></viz:size> <viz:position x="792.4621647748426" y="834.0029856704083"></viz:position> <viz:color r="255" g="0" b="0"></viz:color> </node><node id="1" label="Nicolas"> <viz:size value="20.0"></viz:size> <viz:position x="390.2794715485957" y="692.563377600437"></viz:position> <viz:color r="0" g="0" b="255"></viz:color> </node><node id="2" label="Aaronit"> <viz:size value="20.0"></viz:size> <viz:position x="756.379345915983" y="774.3250100015437"></viz:position> <viz:color r="0" g="255" b="0"></viz:color> </node><node id="3" label="Aba"> <viz:size value="20.0"></viz:size> <viz:position x="736.5169061013082" y="788.7918270327016"></viz:position> <viz:color r="255" g="0" b="0"></viz:color> </node><node id="4" label="Dios"> <viz:size value="20.0"></viz:size> <viz:position x="638.470042745384" y="656.462426684069"></viz:position> <viz:color r="0" g="0" b="255"></viz:color> </node>        </nodes>
+   <edges>
+<edge id="0" source="0" target="1"></edge> <edge id="1" source="2" target="1"></edge> <edge id="2" source="3" target="1"></edge> <edge id="3" source="0" target="4"></edge> <edge id="4" source="2" target="4"></edge> <edge id="5" source="3" target="4"></edge>             </edges>
+  </graph>
+</gexf>
+ 
