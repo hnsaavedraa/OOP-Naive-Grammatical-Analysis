@@ -5,9 +5,9 @@ Teacher : Jorge Eliecer Camargo Mendoza
 
 Team:
 
-- Harold Nicolas Saavedra Alvarado (https://github.com/hnsaavedraa)
+- Harold Nicolas Saavedra Alvarado (me)
 - Johan Sebastian Salamanca Gonzalez (https://github.com/ssalamancag)
-- Juan Jesus Pulido Sanchez (me)
+- Juan Jesus Pulido Sanchez (https://github.com/jjpulidos)
 
 # Word2Graph
 
